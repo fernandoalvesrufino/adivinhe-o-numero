@@ -40,6 +40,10 @@ button:hover {
   display: none;
 }
 
+.red {
+  color: red;
+}
+
 main {
   background: #FFFFFF;
   box-shadow: 0 .2rem .4rem rgba(0, 0, 0, 0.1);
