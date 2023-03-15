@@ -83,7 +83,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JacaScript
+- JavaScript
 - Git e Github
 - Figma
 
